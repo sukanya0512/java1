@@ -4,6 +4,7 @@ public class sub {
             int b = 5;
             int sub = a - b;
             System.out.println("subtraction of two numbers is :" + sub);
+            System.out.println("added new line ");
 
       }
 }
